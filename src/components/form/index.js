@@ -303,7 +303,7 @@ function Form() {
           </button>
         </div>
 
-        <footer className="flex relative bottom-0 justify-center text-xs mb-4 mt-48 lg:absolute lg:mt-0">
+        <footer className="flex relative bottom-0 justify-center text-xs mb-4 mt-12 lg:absolute lg:mt-0">
           <div>
             Challenge by{" "}
             <a
